@@ -40,6 +40,7 @@
     "@twinkleplop/javascript": "workspace:*",
     "@twinkleplop/json": "workspace:*",
     "@twinkleplop/jsonc": "workspace:*",
+    "@twinkleplop/lua": "workspace:*",
     "@twinkleplop/markdown": "workspace:*",
     "@twinkleplop/powershell": "workspace:*",
     "@twinkleplop/python": "workspace:*",

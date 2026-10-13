@@ -162,6 +162,12 @@ importers:
         specifier: workspace:*
         version: link:../../lib/core
 
+  languages/lua:
+    dependencies:
+      '@twinkleplop/core':
+        specifier: workspace:*
+        version: link:../../lib/core
+
   languages/markdown:
     dependencies:
       '@twinkleplop/core':
@@ -325,6 +331,9 @@ importers:
       '@twinkleplop/jsonc':
         specifier: workspace:*
         version: link:../../languages/jsonc
+      '@twinkleplop/lua':
+        specifier: workspace:*
+        version: link:../../languages/lua
       '@twinkleplop/markdown':
         specifier: workspace:*
         version: link:../../languages/markdown

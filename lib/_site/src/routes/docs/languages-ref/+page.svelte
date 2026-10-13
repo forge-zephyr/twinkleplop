@@ -41,6 +41,7 @@ const md = language({
 		{ name: "javascript", notes: "Regex-vs-division disambiguation, template literals, tagged-template embedding of html and css." },
 		{ name: "json", notes: "RFC 8259. No JSON5 extensions: no comments, trailing commas or single quotes." },
 		{ name: "jsonc", notes: "JSON with Comments: json plus // and /* */ comments, as in tsconfig and VS Code settings. Object keys promoted to property." },
+		{ name: "lua", notes: "Lua 5.4: long brackets of every level, escapes as their own tokens, hex floats, <const> and <close> attributes, goto labels, and defined and called function names." },
 		{ name: "markdown", notes: "CommonMark constructs, front matter, fenced code containers. Embeds the languages you pass in fences and front matter." },
 		{ name: "powershell", notes: "Scripts, modules and data files: variables, nested interpolation, here-strings, types, attributes and PowerShell 7 operators." },
 		{ name: "python", notes: "F-strings, soft keywords, decorators." },
